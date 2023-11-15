@@ -43,7 +43,7 @@
     <h2>Eu amo tecnologia!</h2>
     </div>
     <div class="pulse">
-    <img src="coração-removebg-preview.png">
+    <img src="./img/coração-removebg-preview.png">
 
 </div>
 </body>
